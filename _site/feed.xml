@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Local Gem</title>
+    <description>Compilation of all my work :)
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 19 Jun 2019 21:03:15 -0400</pubDate>
+    <lastBuildDate>Wed, 19 Jun 2019 21:03:15 -0400</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Olive</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/pictures/oli.png&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 09 Oct 2017 11:39:40 -0400</pubDate>
+        <link>http://localhost:4000/2017/10/09/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/10/09/welcome-to-jekyll/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Cute girl</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/pictures/character.png&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 09 Oct 2016 11:39:40 -0400</pubDate>
+        <link>http://localhost:4000/2016/10/09/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/10/09/welcome-to-jekyll/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Avocado Fiend</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/pictures/avocado.png&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 09 Oct 2015 11:39:40 -0400</pubDate>
+        <link>http://localhost:4000/2015/10/09/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/10/09/welcome-to-jekyll/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Capybarnet</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/pictures/capybarnet.png&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 08 Oct 2015 11:39:40 -0400</pubDate>
+        <link>http://localhost:4000/2015/10/08/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/10/08/welcome-to-jekyll/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Postcard</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/pictures/trains.png&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 07 Oct 2015 11:39:40 -0400</pubDate>
+        <link>http://localhost:4000/2015/10/07/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/10/07/welcome-to-jekyll/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>UW Child Cognition Lab</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/pictures/ccl.png&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 06 Oct 2015 11:39:40 -0400</pubDate>
+        <link>http://localhost:4000/2015/10/06/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/10/06/welcome-to-jekyll/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Window</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/pictures/window.png&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 09 Oct 2014 11:39:40 -0400</pubDate>
+        <link>http://localhost:4000/2014/10/09/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/10/09/welcome-to-jekyll/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
